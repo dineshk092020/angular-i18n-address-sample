@@ -12,7 +12,7 @@ export class AppComponent {
   displayAddress_de;
   ngOnInit() {
     const address = {
-      company: "Shopify1",
+      company: "CompJP",
       firstName: "恵子",
       lastName: "田中",
       address1: "八重洲1-5-3",
@@ -24,7 +24,7 @@ export class AppComponent {
       phone: ""
     };
     const address_DE = {
-      company: "Comp1",
+      company: "CompDE",
       firstName: "Name1",
       lastName: "Last1",
       address1: "Leopoldstraße 36",
